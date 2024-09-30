@@ -1,0 +1,36 @@
+h1{
+    color: #88dff2;
+    background-color: #1F72A6;
+}
+
+.coloureddiv{
+    background-color: #261201;
+    color:#1F72A6;
+    display: block;
+    margin: 10px auto;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 1%;
+}
+p{
+    text-align: center;
+}
+
+.centeredimage{
+    display: block;
+    margin:10px auto;
+}
+
+.coloureddiv2{
+    background-color: #88dff2;
+    color: #1F72A6;
+    display: block;
+    margin: 10px auto;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding: 1%;
+}
+
+body{
+    background-color: #010326;
+}
